@@ -1,5 +1,6 @@
 # say_hello_to_git
 
+Everybody let's dance!
 
 say new hello from git
 
